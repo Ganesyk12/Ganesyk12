@@ -40,11 +40,6 @@
 ## 📈 GitHub Activity Graph
 [![Ganesyk12's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganesyk12&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 😂 Random Dev Joke
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=Ganesyk12&icon=3&color=0)](https://visitcount.itsvg.in)
 
 ### 💰 You can help me by Donating
